@@ -1,0 +1,10 @@
+
+.mapa{
+    width: 99%;
+}
+
+.fondo{
+    background-image: url('../images/bg1.jpg');
+    background-size: cover;
+    background-color: rgba(175, 230, 175, 0.682); 
+}

@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.mapa{
+    width: 99%;
+}
+
+.fondo{
+    background-image: url('../../public/images/bg1.jpg');
+    background-size: cover;
+    background-color: rgba(175, 230, 175, 0.682);
+
+    
+}
